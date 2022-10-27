@@ -155,7 +155,7 @@ button.delete img {
 /* Completed */
 #completed-tasks label {
   text-decoration: line-through;
-  color: #888;
+  color: #888;  /*this line was at the end of upper string earlier*/
 }
 
 /* Edit Task */
